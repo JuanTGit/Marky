@@ -1,1 +1,1 @@
-print("marky")
+print("my")
